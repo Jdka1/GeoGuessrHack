@@ -6,7 +6,7 @@ Find your location instantly 📍
 
 Follow the tutorial below to install the bookmarklet. 
 
-**Paste the javascript code below into the URL box and Name the bookmarklet whatever you want**
+**Paste the javascript code below into the URL box and name the bookmarklet whatever you want**
 
 <br>
 
