@@ -2,11 +2,11 @@
 
 Find your location instantly 📍
 
-### Installation
+### Use and Installation
 
-Follow the tutorial below to install the bookmarklet. 
+If the bookmarklet does not work clicked, reload the GeoGuessr page and try again.
 
-**Paste the javascript code below into the URL box and name the bookmarklet whatever you want**
+Follow the tutorial below to install the bookmarklet. Paste the javascript code below into the URL box and name the bookmarklet whatever you want
 
 <br>
 
