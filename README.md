@@ -12,7 +12,7 @@ Follow the tutorial below to install the bookmarklet.
 
 [![Video](https://img.youtube.com/vi/qL3AEQHb7yw/0.jpg)](https://www.youtube.com/watch?v=qL3AEQHb7yw)
 
-```javascript
+```
 javascript: (
     function() {
         let performanceEntries = performance.getEntriesByType('resource');
@@ -32,6 +32,7 @@ javascript: (
             xhr.onload = function() {
                 if (xhr.status === 200) {
                     let data = xhr.response;
+                    console.log(data);
                     let curRoundData = data['rounds'][data['round'] - 1];
                     let latLng = { 'lat': curRoundData['lat'], 'lng': curRoundData['lng'] };
                     console.log(latLng);
