@@ -4,9 +4,7 @@ Find your location instantly 📍
 
 ### Installation
 
-Follow the tutorial below to install the bookmarklet.
-
-*Instead 
+Follow the tutorial below to install the bookmarklet. **Paste the javascript code below into the URL box and Name the bookmarklet whatever you want**
 
 [![Video](https://img.youtube.com/vi/qL3AEQHb7yw/0.jpg)](https://www.youtube.com/watch?v=qL3AEQHb7yw)
 
