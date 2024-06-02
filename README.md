@@ -12,7 +12,7 @@ Follow the tutorial below to install the bookmarklet. Paste the javascript code 
 
 [![Video](https://img.youtube.com/vi/qL3AEQHb7yw/0.jpg)](https://www.youtube.com/watch?v=qL3AEQHb7yw)
 
-```
+```javascript
 javascript: (
     function() {
         let performanceEntries = performance.getEntriesByType('resource');
